@@ -107,6 +107,6 @@ for altering them.
 
 ---
 
-I acknowledge that I have read the course syllabus and understand that I am responsible for
+I, Justin Dunbar, acknowledge that I have read the course syllabus and understand that I am responsible for
 complying with all course policies, assignment requirements, and monitoring Piazza
 throughout the semester.
