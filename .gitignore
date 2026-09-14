@@ -4,6 +4,11 @@ bin/
 out/
 target/
 
+# Course handouts and reference material (not part of any submission)
+*.doc
+*.docx
+*.pdf
+
 # IDE / editor files
 .vscode/
 .idea/
