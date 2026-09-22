@@ -118,11 +118,13 @@ output files** in both cases, and identical console summaries.
 **AI tools used:** Yes. I used Claude (Anthropic) via Claude Code to assist with this
 assignment.
 
-**Transcript:** <!-- TODO: replace this line with the transcript link before submitting -->
-`TODO — paste link to ai-transcript.md here`
+**Transcript:**
+[ai-transcript.md](https://github.com/JayDaDIN/LSP_REPO_1_Fall2026/blob/main/src/org/howard/edu/lsp/assignment3/doc/ai-transcript.md)
+(also committed beside this file, at `src/org/howard/edu/lsp/assignment3/doc/ai-transcript.md`)
 
-Once `ai-transcript.md` is committed alongside this file, the link is:
-`https://github.com/JayDaDIN/LSP_REPO_1_Fall2026/blob/main/src/org/howard/edu/lsp/assignment3/doc/ai-transcript.md`
+The transcript was exported directly from the Claude Code session log rather than retyped.
+It covers the Assignment #3 portion of the session; its opening section states exactly what
+was included and what was left out.
 
 **Internet resources used:** None. All information used came from the assignment
 specification, the course syllabus, and the AI interaction linked above.
