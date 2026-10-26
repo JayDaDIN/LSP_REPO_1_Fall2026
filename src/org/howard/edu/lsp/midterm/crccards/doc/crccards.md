@@ -1,0 +1,3 @@
+# CRC Cards: Library Lending System
+
+`Library` collaborates with `Book` because the Library is responsible for maintaining the collection and coordinating borrowing and returning, while each Book is responsible for its own availability and for validating its individual state transitions. The collaboration is one-way: a Book does not need to know which Library contains it or how the collection is organized. This keeps the Book focused on book details and availability rather than collection management. The Library enforces the three-book limit because that rule applies to the whole collection and cannot be decided by an individual Book.
