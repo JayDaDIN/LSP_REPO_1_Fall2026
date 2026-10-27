@@ -1,0 +1,24 @@
+1.	Benefits: Explain how AI has helped your learning or software development this semester. Include at least one specific example from this course.
+
+Response:
+
+This course, even without the use of AI, has exposed to Java and it's benefit when developing enterprise / larger scaled systems.
+I first used AI to build me a skeleton of various classes, scripts, and connectors when handling assignments. For example, for the payroll assignment I was able to thoroughly understand and comprehend how to build functions to track, analyze, and answer the payroll assignment question accurately.
+Going forward, I want to be less dependent on AI for comprehension and critical thinking, but use it for building my ideas and as a tool of convienence rather than reliance.
+
+2.	Challenges: Describe a situation in which AI was incorrect, misleading, unhelpful, or made learning more difficult. Explain what you learned from that experience. If you did not encounter such a situation, explain a limitation or risk you have observed and how you address it.
+
+A challenge came from something entirely different from AI- it came from me. A human error on my behalf made working with Claude an even more difficult experience than required. 
+This story begins with Assignment 3. As I was working with the Claude Planning Agent, I disregarded some of the prompts/questions it had asked of me and I also ran out of tokens for my session. This led to a miscommunication between the agent and I.
+The consequence was time spent reviewing and manually altering some classes within the code to meet the assignment requirement.    
+
+3.	Moving Forward: Explain how you intend to use AI in future courses or professional software development while continuing to develop your own technical skills.
+
+Towards the end of my response to question 1, I mentioned that I want to be less intellectually-dependent on AI but it's important to understand why.
+In recent Standford and Cambridge studies, they've deduced that students that rely on AI for comprehension perform on average 4x worse than students without any AI at all when the AI tool is unavailable.
+This study has motivated me to utilize my own critical thinking components rather than rely on a quick fix with a Chat GPT search. Creativity, critical thinking, and comprehension is all a gift that must be nutured.
+If I used AI constantly, I would ultimately fall victim to the consumer mindset and would be unable to authentically produce.
+
+As a Computer Sciencetist I want to know and understand programming with or without AI, and going forward it will be a tool used to develop my ideas instead of just "being me."
+This means using agents to build prototypes, skeletons, checking, brainstorming, and flushing instead of a simple "do this" command that doesn't involve any of my input.
+AI is all around us but I want to be a user and not used. 
